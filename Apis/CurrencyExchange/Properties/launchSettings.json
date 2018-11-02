@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"CurrencyExchange": {
+			"applicationUrl": "http://localhost:9050;https://localhost:9060",
+			"commandName": "Project",
+			"environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" },
+			"launchBrowser": true
+		}
+	}
+}

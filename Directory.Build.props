@@ -1,0 +1,7 @@
+<Project>
+	<PropertyGroup>
+		<LangVersion>latest</LangVersion>
+		<NeutralLanguage>en</NeutralLanguage>
+		<TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+	</PropertyGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"CurrencyList": {
+			"applicationUrl": "http://localhost:9030;https://localhost:9040",
+			"commandName": "Project",
+			"environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" },
+			"launchBrowser": true
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"Web": {
+			"applicationUrl": "http://localhost:9010;https://localhost:9020",
+			"commandName": "Project",
+			"environmentVariables": { "ASPNETCORE_ENVIRONMENT": "Development" },
+			"launchBrowser": true
+		}
+	}
+}
